@@ -1,0 +1,5 @@
+itemNumber;product;orderNumber;quantity;unit
+1;Milk;1;2;l
+2;Rice;1;1;kg
+3;Water;2;9;l
+4;Chips;2;1;pc
